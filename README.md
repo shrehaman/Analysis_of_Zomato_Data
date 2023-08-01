@@ -15,6 +15,9 @@ Key Features of the Zomato Data Analysis Project:
 - Analysis Report: The project concludes with an analysis report summarizing the key findings, trends, and insights derived from the Zomato dataset. This report provides a comprehensive overview of the analysis performed and offers recommendations or actionable insights based on the results.
 
 The Zomato Data Analysis project provides valuable insights into the restaurant industry, helping stakeholders make informed decisions and understand consumer preferences. The visualizations and analysis report serve as a foundation for further research, business strategies, or decision-making processes.
+
+Project- 25
+
 ## Table of Contents
 - [Technology Used](#technologies)
 - [Contributing](#contributing)
